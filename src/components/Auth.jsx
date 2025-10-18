@@ -601,7 +601,7 @@ export default function Auth() {
                     Refund
                   </a>
                   <a 
-                    href="\public\Terms and condition\Contact Us.pdf" 
+                    href="public/Terms and condition/Contact Us.pdf" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="hover:text-white transition-colors duration-300 flex items-center gap-1 font-semibold"
