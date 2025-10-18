@@ -227,7 +227,7 @@ function App() {
                 <ul className="space-y-2 text-sm text-white/60 ml-40">
                   <li>
                     <a 
-                      href="/public/Terms and condition/terms and conditions.pdf" 
+                      href="\public\terms and conditions.pdf" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="hover:text-purple-300 transition-colors"
@@ -237,7 +237,7 @@ function App() {
                   </li>
                   <li>
                     <a 
-                      href="/public/Terms and condition/Privacy policy.pdf" 
+                      href="\public\Privacy policy.pdf" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="hover:text-purple-300 transition-colors"
@@ -247,7 +247,7 @@ function App() {
                   </li>
                   <li>
                     <a 
-                      href="/public/Terms and condition/Shipping policy.pdf" 
+                      href="\public\Shipping policy.pdf" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="hover:text-purple-300 transition-colors"
@@ -257,7 +257,7 @@ function App() {
                   </li>
                   <li>
                     <a 
-                      href="/public/Terms and condition/Refund Policy.pdf" 
+                      href="\public\Refund Policy.pdf" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="hover:text-purple-300 transition-colors"
