@@ -227,32 +227,42 @@ function App() {
                 <ul className="space-y-2 text-sm text-white/60 ml-40">
                   <li>
                     <a 
-                      href="/docs/Terms and conditions.pdf" 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="hover:text-purple-300 transition-colors"
-                    >
-                      About Us
-                    </a>
-                  </li>
-                  <li>
-                    <a 
-                      href="/docs/Terms and conditions.pdf" 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="hover:text-purple-300 transition-colors"
-                    >
-                      All Books
-                    </a>
-                  </li>
-                  <li>
-                    <a 
-                      href="/docs/Terms and conditions.pdf" 
+                      href="/public/Terms and condition/terms and conditions.pdf" 
                       target="_blank" 
                       rel="noopener noreferrer" 
                       className="hover:text-purple-300 transition-colors"
                     >
                       Terms & Conditions
+                    </a>
+                  </li>
+                  <li>
+                    <a 
+                      href="/public/Terms and condition/Privacy policy.pdf" 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="hover:text-purple-300 transition-colors"
+                    >
+                      Privacy
+                    </a>
+                  </li>
+                  <li>
+                    <a 
+                      href="/public/Terms and condition/Shipping policy.pdf" 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="hover:text-purple-300 transition-colors"
+                    >
+                      Shipping
+                    </a>
+                  </li>
+                  <li>
+                    <a 
+                      href="/public/Terms and condition/Refund Policy.pdf" 
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      className="hover:text-purple-300 transition-colors"
+                    >
+                      Refund
                     </a>
                   </li>
                 </ul>
@@ -289,6 +299,16 @@ function App() {
                       className="hover:text-purple-300 transition-colors"
                     >
                       Github
+                    </a>
+                  </li>
+                  <li>
+                    <a 
+                      href="mailto:vimalpravin071@gmail.com" 
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="hover:text-purple-300 transition-colors"
+                    >
+                      Email
                     </a>
                   </li>
                 </ul>
